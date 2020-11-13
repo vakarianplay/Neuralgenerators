@@ -373,6 +373,8 @@ if __name__ == "__main__":
     # Generate phrases
     res = generate(predict_model, vectorizer, seed=seed, length=out_len)
     print(res)
+    
+    #Write phareses to file
     outfile = open("out.txt","w")
     outfile.write(res)
     outfile.close()
