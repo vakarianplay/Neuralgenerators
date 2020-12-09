@@ -25,7 +25,7 @@ class GUI():
 
     def __init__(self):
         self.mainWindow = tkinter.Tk()
-        self.mainWindow.title("py")
+        self.mainWindow.title("Markov Text Generator")
 
         self.input = tkinter.StringVar()
         self.output = tkinter.StringVar()
