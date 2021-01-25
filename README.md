@@ -1,5 +1,5 @@
 # Keras text generator
-![](https://img.shields.io/badge/python-3-blue)
+![](https://img.shields.io/badge/python-3.7-blue)
 ![](https://img.shields.io/badge/pip%20install-keras-blue)
 ![](https://img.shields.io/badge/pip%20install-TensorFlow-blue)
 
