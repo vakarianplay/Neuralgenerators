@@ -21,3 +21,5 @@ Generate text from model:
 # PyMarkov generator
 
 Text generator on Markov's chains with gui (tkinter)
+
+![](https://specialbotdata.000webhostapp.com/pic_git/markov.png)
