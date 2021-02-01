@@ -19,7 +19,16 @@ Generate text from model:
 
 ---------------------------------------------------------------------------
 # PyMarkov generator
+![](https://img.shields.io/badge/python-3.7-blue)
+![](https://img.shields.io/badge/pip%20install-tkinter-blue)
 
 Text generator on Markov's chains with gui (tkinter)
 
 ![](https://specialbotdata.000webhostapp.com/pic_git/markov.png)
+
+--------------------------------------------------------------------------
+# markovify.py
+![](https://img.shields.io/badge/python-3.7-blue)
+![](https://img.shields.io/badge/pip%20install-markovify-blue)
+
+Markov's chains short phrases generator in CLI.
