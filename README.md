@@ -7,7 +7,7 @@ requirements:
 ```
 pip install keras
 pip install tensorflow
-pip install numply
+pip install numpy
 ```
 
 Create, learning ang generate text:
