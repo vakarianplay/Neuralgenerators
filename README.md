@@ -11,10 +11,10 @@ pip install numpy
 ```
 
 Create, learning ang generate text:
-* python .\keras_textgen.py --text=in.txt --epochs=10 --out_len=4000
+* python ./keras_textgen.py --text=in.txt --epochs=10 --out_len=4000
 
 Generate text from model:
-* python .\keras_textgen.py --text=in.txt --epochs=10 --out_len=4000 --generate
+* python ./keras_textgen.py --text=in.txt --epochs=10 --out_len=4000 --generate
 
 
 ---------------------------------------------------------------------------
