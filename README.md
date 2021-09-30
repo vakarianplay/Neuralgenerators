@@ -24,7 +24,7 @@ Generate text from model:
 
 Text generator on Markov's chains with gui (tkinter)
 
-![](https://specialbotdata.000webhostapp.com/pic_git/markov.png)
+![](https://vakarian.website/readmepic/markov.jpg)
 
 --------------------------------------------------------------------------
 # markovify.py
